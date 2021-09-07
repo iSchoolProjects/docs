@@ -7,6 +7,8 @@
 ### General
  - [Learn SOLID, design patterns,example is in python, but applicable to any language](https://www.youtube.com/c/ArjanCodes/playlists)
 
+ - [Design patterns multi language](https://refactoring.guru/design-patterns/factory-method/ruby/example#example-0)
+
 ### Frontend Development
 
 
