@@ -4,6 +4,8 @@
 
 #### Let's split docs in few categories and update them accordingly.
 
+### General
+ - [Learn SOLID, design patterns,example is in python, but applicable to any language](https://www.youtube.com/c/ArjanCodes/playlists)
 
 ### Frontend Development
 
