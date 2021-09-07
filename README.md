@@ -17,4 +17,4 @@
 
 ### Code reviews
 
-- (Moscow)[https://dev.to/allthecode/moscow-the-best-code-review-technique-you-re-not-using-2b0e]
+- [Moscow](https://dev.to/allthecode/moscow-the-best-code-review-technique-you-re-not-using-2b0e)
